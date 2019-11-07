@@ -3,6 +3,13 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 
+## Configuración
+
+Asegúrate de que tienes instalado `conda` y recrea un entorno virtual con el fichero `environment.yml` con el siguiente comando:
+
+    conda env create -f environment.yml
+
+
 ## Programa
 
 1. Introducción al Procesamiento del Lenguaje Natural
